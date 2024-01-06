@@ -1,0 +1,12 @@
+{
+  "name": "generics-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsx watch index.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0"
+  }
+}
